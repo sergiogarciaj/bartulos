@@ -1,0 +1,7 @@
+{
+  "name": "Bartulos",
+  "description": "Sistema inteligente de gestión de inventario para cajas y objetos en almacenamiento, con soporte de IA y control de préstamos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
